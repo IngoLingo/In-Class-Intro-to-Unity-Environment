@@ -17,5 +17,7 @@ public class PlayerController : MonoBehaviour {
 		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
 		
 		rb.AddForce (movement);
+
+   // if (Input.GetKey (KeyCode.Space)) { gameObject.transform.Translate(0, 0.5f, 0); }
 	}	
 }
