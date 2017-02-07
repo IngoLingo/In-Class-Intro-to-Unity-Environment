@@ -47,10 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraController.cs" />
+     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\changeColor.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\rotate.cs" />
+     <Compile Include="Assets\variablesandoperators.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
