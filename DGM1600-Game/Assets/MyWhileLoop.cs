@@ -13,7 +13,7 @@ public class MyWhileLoop : MonoBehaviour {
     private int minVal = 0; // Lowest posible number
     private int maxVal = 1000; // Highest posible number
     private int count = 0;
-    private int myNumber = 64;//This is were you pick a number between the min and max value
+    private int myNumber = 42;//This is were you pick a number between the min and max value
 
 	// Use this for initialization
 	void Start () {

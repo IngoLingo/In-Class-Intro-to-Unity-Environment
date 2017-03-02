@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MATH.unity
+- path: Assets/Nathan'sZooGame.unity
   isLoaded: 1
   isActive: 1

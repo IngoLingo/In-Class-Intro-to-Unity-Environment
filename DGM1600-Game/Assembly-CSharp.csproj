@@ -49,6 +49,8 @@
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\IfElseStatements.cs" />
      <Compile Include="Assets\IfStatement.cs" />
+     <Compile Include="Assets\Lists.cs" />
+     <Compile Include="Assets\MyArray.cs" />
      <Compile Include="Assets\MyIfStatement.cs" />
      <Compile Include="Assets\MySwitch.cs" />
      <Compile Include="Assets\MyWhileLoop.cs" />
@@ -58,6 +60,7 @@
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\rotate.cs" />
      <Compile Include="Assets\variablesandoperators.cs" />
+     <Compile Include="Assets\voidTest.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
